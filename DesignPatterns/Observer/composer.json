@@ -1,0 +1,16 @@
+{
+    "name": "design-patterns/observer",
+    "description": "Observer Design Pattern",
+    "autoload": {
+        "psr-4": {
+            "DesignPatterns\\Observer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Momen Muhammad",
+            "email": "info@momenmuhammad.com"
+        }
+    ],
+    "require": {}
+}
