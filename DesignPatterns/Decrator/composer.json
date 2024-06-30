@@ -1,0 +1,16 @@
+{
+    "name": "design-patterns/decrator",
+    "description": "Decrator Design Pattern",
+    "autoload": {
+        "psr-4": {
+            "DesignPatterns\\Decrator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mo'men Muhammad",
+            "email": "info@momenmuhammad.com"
+        }
+    ],
+    "require": {}
+}
